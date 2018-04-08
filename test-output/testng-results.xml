@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60017" started-at="2018-04-08T05:56:22Z" finished-at="2018-04-08T05:57:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60017" started-at="2018-04-08T05:56:22Z" finished-at="2018-04-08T05:57:23Z">
+      <class name="testScript.TestCheckout">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="beforeTest" is-config="true" duration-ms="13" started-at="2018-04-08T11:26:23Z" finished-at="2018-04-08T11:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="beforeClass" is-config="true" duration-ms="40110" started-at="2018-04-08T11:26:23Z" finished-at="2018-04-08T11:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="f" duration-ms="11" started-at="2018-04-08T11:27:03Z" finished-at="2018-04-08T11:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="testSimpleFlow()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="testSimpleFlow" duration-ms="19232" started-at="2018-04-08T11:27:03Z" finished-at="2018-04-08T11:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSimpleFlow -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="afterClass" is-config="true" duration-ms="625" started-at="2018-04-08T11:27:22Z" finished-at="2018-04-08T11:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScript.TestCheckout@6d00a15d]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-04-08T11:27:23Z" finished-at="2018-04-08T11:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScript.TestCheckout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
